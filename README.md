@@ -1,4 +1,4 @@
-# 📊 Excel Clone (Vanilla JS)
+# 📊 Excel Clone
 
 A functional spreadsheet application built with HTML, CSS, and JavaScript — replicating basic features of Microsoft Excel including formulas, cell formatting, and multiple sheet handling.
 
