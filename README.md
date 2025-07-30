@@ -20,12 +20,19 @@ A functional spreadsheet application built with HTML, CSS, and JavaScript — re
 
 excel-clone/
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── cycleValidation.js
+
 ├── formula.js
+
 ├── graphComponentMatrix.js
+
 ├── sheetHandling.js
+
 ├── README.md
 
 > You can open `index.html` directly in a browser to use the app.
