@@ -19,6 +19,7 @@ A functional spreadsheet application built with HTML, CSS, and JavaScript — re
 ## 📁 Folder Structure
 
 excel-clone/
+
 ├── index.html
 
 ├── style.css
